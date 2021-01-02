@@ -423,15 +423,4 @@ workflows:
           filters:
             branches:
               only: master
-      - smoke-test:
-          requires:
-            - deploy-frontend
-          filters:
-            branches:
-              only: master
-      - delete-old-infrastructure:
-          requires:
-            - smoke-test
-          filters:
-            branches:
-              only: master
+      
