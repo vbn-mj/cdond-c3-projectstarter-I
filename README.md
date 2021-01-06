@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/vbn-mj/cdond-c3-projectstarter.svg?style=svg)](https://circleci.com/gh/vbn-mj/cdond-c3-projectstarter)
+[![CircleCI](https://circleci.com/gh/vbn-mj/cdond-c3-projectstarter-I.svg?style=svg)](https://circleci.com/gh/vbn-mj/cdond-c3-projectstarter)
 
 ## Give your Application Auto-Deploy Superpowers
 
